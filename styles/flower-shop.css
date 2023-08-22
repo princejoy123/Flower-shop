@@ -69,7 +69,7 @@
     justify-content: space-around;
     text-align: center;
     align-items: center;
-  
+
 }
 
 .img-1 {
@@ -86,7 +86,7 @@
     width: 450px;
     height: 480px;
     margin-top: 50px;
-    
+
 }
 
 .img-3 {
@@ -134,23 +134,123 @@
 
 /* header section-3 */
 
-.header-3{
+.header-3 {
     width: 1440px;
-height: 320px;
-border-radius: 8px;
-background: rgba(39, 39, 39, 0.05);
-display: flex;
-justify-content: space-around;
-margin: 128px, 240px ;
-margin-top: 150px;
-margin-bottom: 200px;
-text-align: center;
-align-items: center;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 150px;
+    margin-bottom: 200px;
+    text-align: center;
+    align-items: center;
+    margin: 140px 228px;
+}
+
+.main-1 {
+
+    height: 600px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.off {
+    color: #E55473;
+}
+
+.imgs-4 {
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+    gap: 50px;
+}
+
+.section-4 {
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-5 {
+    background-image: url('/Flower Asset/Rectangle\ 9.png');
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    margin: 140px 228px;
+}
+
+#form {
+    width: 700px;
+    height: 64px;
+    background-color: white;
+    border-radius: 8px;
 
 }
-.main-1{
+
+.form {
+    margin-top: 50px;
+}
+
+/* Footer section */
+
+
+.footer {
     width: 1922px;
-height: 620px;
-border-radius: 8px;
-background: rgba(229, 84, 115, 0.05);
+    height: 449px;
+    background: #111010;
+    text-align: center;
+    align-items: center;
+
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.footer-title {
+    color: #FFF;
+
+    font-size: 48px;
+    text-align: center;
+    font-weight: 800;
+
+}
+
+.footer-des {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+
+    font-size: 18px;
+
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.footer-last {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+
+    font-size: 16px;
+
+    font-weight: 400;
+
 }
