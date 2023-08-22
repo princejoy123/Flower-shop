@@ -1,0 +1,156 @@
+/* header section-1 */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: lato;
+}
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px, 240px, 0px, 240px;
+}
+
+
+.title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+
+}
+
+.description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    width: 634px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/* header section-2 */
+
+.title-2 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+
+}
+
+.description-2 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.imeges-3 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+  
+}
+
+.img-1 {
+    width: 450px;
+    height: 480px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-top: 50px;
+}
+
+.img-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 450px;
+    height: 480px;
+    margin-top: 50px;
+    
+}
+
+.img-3 {
+    width: 450px;
+    height: 480px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-top: 50px;
+}
+
+.imgs-title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap: 0px;
+    margin-top: 50px;
+}
+
+.img-title-1 {
+    color: #272727;
+    text-decoration-line: underline;
+    font-size: 24px;
+    font-weight: 700;
+
+
+
+}
+
+.img-title-2 {
+    color: #272727;
+    text-decoration-line: underline;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.img-title-3 {
+    color: #272727;
+    text-decoration-line: underline;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+/* header section-3 */
+
+.header-3{
+    width: 1440px;
+height: 320px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+display: flex;
+justify-content: space-around;
+margin: 128px, 240px ;
+margin-top: 150px;
+margin-bottom: 200px;
+text-align: center;
+align-items: center;
+
+}
+.main-1{
+    width: 1922px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
